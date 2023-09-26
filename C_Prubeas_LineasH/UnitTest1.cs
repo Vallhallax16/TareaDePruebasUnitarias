@@ -5,34 +5,43 @@ using Xunit;
 
 namespace C_Prubeas_LineasH
 {
-    public class Test
+    [TestFixture]
+    public class CVerificadora_de_Lineas_HorizontalesTests
     {
-        //public int[] Vertices = { 1, 5, 8, 5 };
-        CVerificadora_de_Lineas_Horizontales cvlh;
-
-        [SetUp]
-        public void setup(int[] Vertices)
+        [Test]
+        public void Verificadora_LineaHorizontal_True()
         {
-            cvlh = new CVerificadora_de_Lineas_Horizontales(Vertices);
+            int[] vertices = { 1, 5, 8, 5 };
+            var verificadora = new CVerificadora_de_Lineas_Horizontales(vertices);
+            var Resultado = verificadora.Verificadora();
+            NUnit.Framework.Assert.IsTrue(Resultado);
         }
 
         [Test]
-        public void PU_LineasHorizontales()
+        public void Verificadora_LineaNoHor_False()
         {
-            int[] Vertices = { 1, 5, 8, 5 };
-            CVerificadora_de_Lineas_Horizontales cvlh = new(Vertices);
-            var RectaHor = cvlh.Verificadora();
-            //var Inclinacion = cvlh.ContieneInclinacion();
-            NUnit.Framework.Assert.AreEqual(true, RectaHor);
+            int[] vertices = { 5, 10, 15, 20 };
+            var verificadora = new CVerificadora_de_Lineas_Horizontales(vertices);
+            var Resultado = verificadora.Verificadora();
+            NUnit.Framework.Assert.IsFalse(Resultado);
         }
 
         [Test]
-        public void PU_LineasInclinadas()
+        public void ContieneInclinacion_Inclinacion_True()
         {
-            int[] Vertices = { 1, 2, 8, 5 };
-            //var RectaHor = cvlh.Verificadora();
-            var Inclinacion = cvlh.ContieneInclinacion();
-            NUnit.Framework.Assert.AreEqual(true, Inclinacion);
+            int[] vertices = { 5, 10, 15, 20 };
+            var verificadora = new CVerificadora_de_Lineas_Horizontales(vertices);
+            var Resultado = verificadora.ContieneInclinacion();
+            NUnit.Framework.Assert.IsTrue(Resultado);
+        }
+
+        [Test]
+        public void ContieneInclinacion_NoInclinacion_False()
+        {
+            int[] vertices = { 1, 5, 8, 5 };
+            var verificadora = new CVerificadora_de_Lineas_Horizontales(vertices);
+            var Resultado = verificadora.ContieneInclinacion();
+            NUnit.Framework.Assert.IsFalse(Resultado);
         }
     }
 }

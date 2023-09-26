@@ -104,3 +104,10 @@ C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitar
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\obj\Debug\net7.0\C_Prubeas_LineasH.pdb
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\obj\Debug\net7.0\C_Prubeas_LineasH.genruntimeconfig.cache
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\obj\Debug\net7.0\ref\C_Prubeas_LineasH.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\C_Prubeas_LineasH\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
