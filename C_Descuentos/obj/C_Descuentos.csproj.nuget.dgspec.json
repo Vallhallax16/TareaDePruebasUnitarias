@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\C_Descuentos\\C_Descuentos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\C_Descuentos\\C_Descuentos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\C_Descuentos\\C_Descuentos.csproj",
+        "projectName": "C_Descuentos",
+        "projectPath": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\C_Descuentos\\C_Descuentos.csproj",
+        "packagesPath": "C:\\Users\\ana-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\C_Descuentos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ana-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\Pruebas Unitarias.csproj": {
+                "projectPath": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\Pruebas Unitarias.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\Pruebas Unitarias.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
+        "projectName": "Pruebas Unitarias",
+        "projectPath": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\Pruebas Unitarias.csproj",
+        "packagesPath": "C:\\Users\\ana-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ana-f\\Source\\Repos\\TareaDePruebasUnitarias\\Pruebas Unitarias\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ana-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

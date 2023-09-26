@@ -28,3 +28,17 @@ C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitar
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.pdb
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.genruntimeconfig.cache
 C:\Users\oscar\OneDrive\Documents\Oscar\La Salle\PruebasGit\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\ref\Pruebas Unitarias.dll
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\bin\Debug\net7.0\Pruebas Unitarias.exe
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\bin\Debug\net7.0\Pruebas Unitarias.deps.json
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\bin\Debug\net7.0\Pruebas Unitarias.runtimeconfig.json
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\bin\Debug\net7.0\Pruebas Unitarias.dll
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\bin\Debug\net7.0\Pruebas Unitarias.pdb
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.AssemblyInfoInputs.cache
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.AssemblyInfo.cs
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.csproj.CoreCompileInputs.cache
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.dll
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\refint\Pruebas Unitarias.dll
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.pdb
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\Pruebas Unitarias.genruntimeconfig.cache
+C:\Users\ana-f\Source\Repos\TareaDePruebasUnitarias\Pruebas Unitarias\obj\Debug\net7.0\ref\Pruebas Unitarias.dll

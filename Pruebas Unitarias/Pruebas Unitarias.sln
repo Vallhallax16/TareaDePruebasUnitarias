@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaParaInteresCompuesto"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_Prubeas_LineasH", "..\C_Prubeas_LineasH\C_Prubeas_LineasH.csproj", "{B82E5445-BA2D-4817-83C8-FDF89E1E63FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Descuentos", "..\C_Descuentos\C_Descuentos.csproj", "{DB6053B2-9AAF-412A-BB96-D8B554955F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B82E5445-BA2D-4817-83C8-FDF89E1E63FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82E5445-BA2D-4817-83C8-FDF89E1E63FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82E5445-BA2D-4817-83C8-FDF89E1E63FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6053B2-9AAF-412A-BB96-D8B554955F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6053B2-9AAF-412A-BB96-D8B554955F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6053B2-9AAF-412A-BB96-D8B554955F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6053B2-9AAF-412A-BB96-D8B554955F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
