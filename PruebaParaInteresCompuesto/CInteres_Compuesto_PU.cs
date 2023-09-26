@@ -6,7 +6,7 @@ namespace PruebaParaInteresCompuesto
 	{
 		CInteres_Compuesto cic;
 
-		[SetUp]
+        [SetUp]
 		public void Setup()
 		{
 			cic = new CInteres_Compuesto(5);
