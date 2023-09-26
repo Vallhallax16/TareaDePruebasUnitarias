@@ -7,7 +7,7 @@ namespace C_Prubeas_LineasH
 {
     public class Test
     {
-        public int[] Vertices = { 1, 5, 8, 5 };
+        //public int[] Vertices = { 1, 5, 8, 5 };
         CVerificadora_de_Lineas_Horizontales cvlh;
 
         [SetUp]
@@ -17,12 +17,22 @@ namespace C_Prubeas_LineasH
         }
 
         [Test]
-            public void PU_LineasHorizontales()
-            {
-                int[] Vertices = { 1, 5, 8, 5 };
-                var RectaHor = cvlh.Verificadora();
-                //var Inclinacion = cvlh.ContieneInclinacion();
-                NUnit.Framework.Assert.AreEqual(true, RectaHor);
-            }
+        public void PU_LineasHorizontales()
+        {
+            int[] Vertices = { 1, 5, 8, 5 };
+            CVerificadora_de_Lineas_Horizontales cvlh = new(Vertices);
+            var RectaHor = cvlh.Verificadora();
+            //var Inclinacion = cvlh.ContieneInclinacion();
+            NUnit.Framework.Assert.AreEqual(true, RectaHor);
+        }
+
+        [Test]
+        public void PU_LineasInclinadas()
+        {
+            int[] Vertices = { 1, 2, 8, 5 };
+            //var RectaHor = cvlh.Verificadora();
+            var Inclinacion = cvlh.ContieneInclinacion();
+            NUnit.Framework.Assert.AreEqual(true, Inclinacion);
+        }
     }
 }
